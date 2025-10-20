@@ -52,4 +52,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: randymaulana_prakpopl_cicd_2354:latest
+          tags: randymaulana03/randymaulana_prakpopl_cicd_2354:latest
